@@ -1,0 +1,1 @@
+* BayesHammer: Bayesian clustering for error correction in single-cell sequencing
